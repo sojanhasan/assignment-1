@@ -1,0 +1,87 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+.section-1{
+    display: flex;
+}
+.stay-focused{
+    width: 50%;
+    margin: 30px;
+    text-align: justify;
+    font-size: 20px;
+}
+.for-border{
+    border-left: 5px solid red;
+}
+.head-h1{
+    color: tomato;
+}
+.div-img{
+    width: 50%;
+    text-align: center;
+}
+.section-1-img{
+    height: 500px;
+    width: 500px;
+}
+.button{
+    text-decoration: none;
+    background-image: linear-gradient(orange ,salmon);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+}
+.h1-mymission{
+    text-align: center;
+    font-size: 40px;
+}
+.mission-vision-goals{
+    display: flex;
+}
+.mission{ 
+   width: 30%;
+   margin: 10px; 
+   padding: 10px;
+   background-color: cadetblue;
+   border-radius: 20px;
+}
+.vision{
+    width: 30%;
+    margin: 10px; 
+    padding: 10px;
+    background-color: burlywood; 
+    border-radius: 20px;
+ }
+ .goals{
+    width: 30%;
+    margin: 10px;
+    padding: 10px;  
+    background-color: coral;
+    border-radius: 20px;
+ }
+ span{
+     color: orange;
+ }
+.img-3{
+    height: 100px;
+    width: 100px;
+}
+.img-workhard{
+    height: 300px;
+    width: 300px;
+}
+.div-workhardimg{
+ margin: 50px 50px 50px 100px;   
+width: 50%;
+
+}
+.div-workhard{
+margin: 50px;
+width: 50%;
+
+}
+.footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
